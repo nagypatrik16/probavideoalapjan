@@ -1,0 +1,14 @@
+C:\Aktuális\Elso\Elso\bin\Debug\netcoreapp3.1\Elso.exe
+C:\Aktuális\Elso\Elso\bin\Debug\netcoreapp3.1\Elso.deps.json
+C:\Aktuális\Elso\Elso\bin\Debug\netcoreapp3.1\Elso.runtimeconfig.json
+C:\Aktuális\Elso\Elso\bin\Debug\netcoreapp3.1\Elso.runtimeconfig.dev.json
+C:\Aktuális\Elso\Elso\bin\Debug\netcoreapp3.1\Elso.dll
+C:\Aktuális\Elso\Elso\bin\Debug\netcoreapp3.1\Elso.pdb
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.csproj.AssemblyReference.cache
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.AssemblyInfoInputs.cache
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.AssemblyInfo.cs
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.csproj.CoreCompileInputs.cache
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.dll
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.pdb
+C:\Aktuális\Elso\Elso\obj\Debug\netcoreapp3.1\Elso.genruntimeconfig.cache
